@@ -14,5 +14,6 @@ namespace Blog.Models
 
         public IList<Post> Posts { get; set; }
         public IList<Role> Roles { get; set; }
+
     }
 }
